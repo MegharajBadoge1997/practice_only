@@ -1,2 +1,8 @@
 hello we are 
+<<<<<<< HEAD
 i am megharaj badoge 1
+=======
+i am megharaj badoge
+12345678910
+abcd
+>>>>>>> dev
